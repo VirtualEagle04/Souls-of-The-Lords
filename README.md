@@ -1,3 +1,3 @@
 # Souls-of-The-Lords
 Souls-like Modpack, a top-difficulty challengem, full with new Armor, Weapons, Items, hardcore Bosses and more...
-(WIP)
+Wiki is in WIP
